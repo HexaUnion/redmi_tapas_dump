@@ -1,0 +1,20 @@
+## missi-user 15 AQ3A.240829.003 OS2.0.207.0.VMTMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: bengal
+- Codename: tapas
+- Brand: Redmi
+- Flavor: missi-user
+- Release Version: 15
+- Kernel Version: 
+- Id: AQ3A.240829.003
+- Incremental: OS2.0.207.0.VMTMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: Redmi/tapas_global/tapas:13/TKQ1.221114.001/OS2.0.207.0.VMTMIXM:user/release-keys
+- OTA version: 
+- Branch: missi-user-15-AQ3A.240829.003-OS2.0.207.0.VMTMIXM-release-keys
+- Repo: redmi_tapas_dump
